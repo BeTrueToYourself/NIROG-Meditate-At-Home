@@ -34,7 +34,7 @@ replay.addEventListener("click", function() {
     restartSong(song);
     
   });
-
+//restart
 
 const restartSong = song =>{
     let currentTime = song.currentTime;
