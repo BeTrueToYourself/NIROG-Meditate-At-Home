@@ -1,0 +1,76 @@
+.page
+{
+width:auto;
+height:auto;
+border-style:groove;
+background-color:brown;
+}
+.bodypart
+{
+width:1490px;
+height:780px;
+border-style:groove;
+margin-top:10px;
+}
+.bodypart .imagepart
+{
+width:480px;
+height:720px;
+
+display:inline-block;
+}
+.bodypart .logpart
+{
+align:left;
+padding:5px;
+text-decoration:none;
+width:450px;
+height:720px;
+float:right;
+margin-left:5px;
+Padding:10px;
+display:inline-block;
+}
+.bodypart .newspart
+{
+width:500px;
+height:720px;
+border-style:groove;
+float:right;
+}
+.bodypart  .newspart h2
+{
+color:green;
+margin-left:10px;
+}
+.bodypart  .newspart .news
+{
+width:220px;
+margin-left:5px;
+height:700px;
+}
+.bodypart  .newspart .news h4
+{
+color:blue;
+}
+.bodypart h1
+{
+color:blue;
+text-align:center;
+}
+{
+width:800px;
+height:800px;
+border-style:groove;
+display:inline-block;
+}
+
+.footerpart
+{
+width:1490px;
+height:25px;
+margin-top:10px;
+background-color:brown;
+border-style:groove;
+background-color:darkbrown;
+}
